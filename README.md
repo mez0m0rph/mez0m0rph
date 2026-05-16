@@ -12,14 +12,6 @@
 
 ---
 
-### 📊 Аналитика профиля GitHub
-
-<p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak Stats" height="150" />
-</p>
-
----
-
 ### 🔒 Контакты
 
 * ⚡ **Telegram:** [@lansky001](https://t.me)
