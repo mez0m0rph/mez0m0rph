@@ -1,18 +1,18 @@
-### 🏛️ Full-Stack .NET + React Engineer
+### ▪️ Full-Stack .NET and React Engineer
 
 ---
 
-### ⚙️ Стек
+### 📌 Stack
 
 #### Backend & Data Architecture
 ` .NET ` ` C# ` ` PostgreSQL `
 
 #### Frontend & DevOps Infrastructure
-` React ` ` Docker ` ` Git `
+` React ` ` Docker ` ` Git ` ` k8s ` ` Redis `
 
 ---
 
-### 🔒 Контакты
+### 📍 Contacts
 
-* ⚡ **Telegram:** [@lansky001](https://t.me)
-* ✉️ **Email:** paninviktor756@gmail.com
+* ▪️ **Telegram:** [@lansky001](https://t.me/lansky001)
+* ▪️ **Email:** paninviktor756@gmail.com
