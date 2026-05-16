@@ -1,16 +1,33 @@
-## Hi there 👋
+### 🏛️ Full-Stack .NET + React Engineer
 
-<!--
-**mez0m0rph/mez0m0rph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Стек
+
+#### Backend & Data Architecture
+![.Net](https://shields.io)
+![C#](https://shields.io)
+![PostgreSQL](https://shields.io)
+![MS SQL](https://shields.io)
+
+#### Frontend & DevOps Infrastructure
+![React](https://shields.io)
+![Docker](https://shields.io)
+![Git](https://shields.io)
+
+---
+
+### 📊 Аналитика профиля GitHub
+
+<p align="left">
+  <img src="https://vercel.app[mez0m0rph]&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" height="150" />
+  <img src="https://vercel.app[mez0m0rph]&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 🔒 Контакты
+
+* ⚡ **Telegram:** [@lansky001]
+* ✉️ **Email:** [paninviktor756@gmail.com]
