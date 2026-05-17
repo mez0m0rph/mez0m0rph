@@ -1,4 +1,4 @@
-### ▪️ Full-Stack .NET and React Engineer
+### ▪️ Full-Stack .NET and React Developer
 
 ---
 
